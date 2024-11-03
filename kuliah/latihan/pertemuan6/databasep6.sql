@@ -38,21 +38,21 @@ INSERT INTO Departments VALUES
 (3, 'IT');
 
 INSERT INTO Employee VALUES
-(1, 'Aisyah', 1, NULL),
-(2, 'Budi', 1, 1),
-(3, 'Citra', 2, 1),
-(4, 'Doni', 2, 2),
-(5, 'Eka', 3, NULL),
-(6, 'Fajar', 3, 3),
-(7, 'Gina', 1, 1),
-(8, 'Hadi', 2, 2),
-(9, 'Indah', 3, 3),
-(10, 'Joko', 1, 1),
-(11, 'Kira', 2, 2),
-(12, 'Lina', 3, 3),
-(13, 'Mira', 1, NULL),
-(14, 'Nina', 2, 2),
-(15, 'Omar', 3, 3);
+(1, 'Siti', 1, NULL),
+(2, 'Dewi', 1, 1),
+(3, 'Rama', 2, 1),
+(4, 'Tari', 2, 2),
+(5, 'Jaka', 3, NULL),
+(6, 'Nanda', 3, 3),
+(7, 'Fitri', 1, 1),
+(8, 'Aditya', 2, 2),
+(9, 'Novi', 3, 3),
+(10, 'Rio', 1, 1),
+(11, 'Alya', 2, 2),
+(12, 'Bagas', 3, 3),
+(13, 'Tika', 1, NULL),
+(14, 'Rini', 2, 2),
+(15, 'Farhan', 3, 3);
 
 INSERT INTO Projects VALUES
 (1, 'Project Alpha', 1),
